@@ -14,7 +14,7 @@ This Google Colab notebook identifies and analyzes anti-correlated neural states
 
 ### Open in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/drgzkr/Multi-Scale_Anti-Correlated/blob/main/Multi_Scale_AntiCorrelated_Neural_States_Dominate_Naturalistic_WholeBrain_Activity)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/drgzkr/Multi-Scale_Anti-Correlated/main/Multi_Scale_AntiCorrelated_Neural_States_Dominate_Naturalistic_WholeBrain_Activity)
 
 Click the "Open in Colab" button or copy the notebook URL to run in your browser. All required packages are installed automatically at the beginning of the notebook.
 
