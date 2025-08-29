@@ -21,7 +21,7 @@ Click the "Open in Colab" button or copy the notebook URL to run in your browser
 ### Select Dataset
 Use the dropdown menu to choose from pre-configured dataset (only possibly by contacting the authors to access the data unless you are using your own data):
 - **StudyForrest**: 8 movie runs with narrative events, shots, audio features
-- **CamCAN**: Single run with subjective events and camera transitions  
+- **CamCAN**: Single run with subjective events and various annotations.
 - **Custom**: Your own dataset (see below)
 
 ## Using Your Own Data
