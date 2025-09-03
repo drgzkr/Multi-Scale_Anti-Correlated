@@ -6,7 +6,10 @@ This Google Colab notebook identifies and analyzes anti-correlated neural states
 
 **Core Concept**: During movie viewing, brain activity exhibits periods where regions are temporally anti-correlated. We identify these periods using bimodality testing on time-by-time correlation matrices, create spatial templates capturing the dominant patterns, and analyze their relationship to stimulus boundaries.
 
-**Paper**: ToDo
+**Paper**: 
+Multi-Scale Anti-Correlated Neural States Dominate Naturalistic Whole-Brain Activity
+Dora Gozukara, Djamari Oetringer, Nasir Ahmad, Linda Geerligs
+bioRxiv 2025.08.27.672600; doi: https://doi.org/10.1101/2025.08.27.672600 
 
 **Authors:** Dora Gozukara, Nasir Ahmad | **Lab:** [DyNaC-Lab](https://www.dynac-lab.com) | **Year:** 2025
 
@@ -103,8 +106,9 @@ The notebook generates:
 ## Citation
 
 ```
-Gozukara, D., Oetringer, D., Ahmad, N., & Geerligs, L. (2025). 
-Multi-Scale Anti-Correlated Neural States Dominate Naturalistic Whole-Brain Activity.
+Multi-Scale Anti-Correlated Neural States Dominate Naturalistic Whole-Brain Activity
+Dora Gozukara, Djamari Oetringer, Nasir Ahmad, Linda Geerligs
+bioRxiv 2025.08.27.672600; doi: https://doi.org/10.1101/2025.08.27.672600 
 ```
 
 ## Support
