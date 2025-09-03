@@ -109,7 +109,7 @@ You can find our QPP implementation for python at [this repository](https://gith
 
 Comparisons between anti-correlated templates and QPPs can be found in this notebook: 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/drgzkr/Multi-Scale_Anti-Correlated/blob/main/Multi_Scale_AntiCorrelated_Neural_States_Dominate_Naturalistic_WholeBrain_Activity.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/drgzkr/Multi-Scale_Anti-Correlated/blob/main/Multi_Scale_AntiCorrelated_Neural_States_QPP_Comparison.ipynb)
 
 ## Citation
 
